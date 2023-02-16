@@ -10,7 +10,9 @@ Create an empty folder.
     Create file app.ts  and type your code init
 
 Transfpile app folder
+
     tsc  app
 
 To  Run app
+
     node  app
